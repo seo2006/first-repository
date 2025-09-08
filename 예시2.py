@@ -1,2 +1,2 @@
 print("start")
-print(4*4)
+print("안녕하세여", "!!!")
